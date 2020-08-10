@@ -37,6 +37,7 @@ struct Directory {
 /*======================================================================*
                             kernel_main
  *======================================================================*/
+dsajkdaskjdhaskdasd
 PUBLIC int kernel_main()
 {
 	disp_str("-----\"kernel_main\" begins-----\n");
